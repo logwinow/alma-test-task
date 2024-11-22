@@ -1,1 +1,0 @@
-# alma-test-task
