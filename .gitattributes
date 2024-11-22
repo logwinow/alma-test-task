@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 Assets/AddressableAssetsData/** filter=lfs diff=lfs merge=lfs -text
+Assets/GFX/Sprites/T_Russia_D.jpg filter=lfs diff=lfs merge=lfs -text
